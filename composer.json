@@ -1,16 +1,16 @@
 {
-    "name": "zarulizham/laravel-duitnow",
+    "name": "zakuanzili/laravel-duitnow",
     "description": "Malaysia DuitNow payment",
     "keywords": [
-        "zarulizham",
+        "zakuanzili",
         "laravel",
         "laravel-duitnow"
     ],
-    "homepage": "https://github.com/zarulizham/laravel-duitnow",
+    "homepage": "https://github.com/zakuanzili/laravel-duitnow",
     "license": "MIT",
     "authors": [{
-        "name": "Zarul Zubir",
-        "email": "zarul.izham@gmail.com",
+        "name": "Muhammad Zakuan Bin Zulkefli",
+        "email": "muhammadzakuanzili@gmail.com",
         "role": "Developer"
     }],
     "require": {
